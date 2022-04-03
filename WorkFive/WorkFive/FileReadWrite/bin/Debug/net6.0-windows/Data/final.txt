@@ -1,0 +1,14 @@
+1:	<?xml version="1.0" encoding="utf-8"?><ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Order><orderName>矿泉水</orderName><price>1.5</price><Now>2022/3/28 16:19:49</Now><orderDetail><customerName>asd</customerName><customerSex>男</customerSex><customerPhone>11111111111</customerPhone><customerRequest>asdasda</customerRequest><customerAddress>asdasdad</customerAddress></orderDetail></Order></ArrayOfOrder>
+2:	asdadsadada
+3:	asdasdad
+4:	asdasdasd
+5:	asd
+6:	asdasdasdas
+7:	asdasdasdasd
+1:	<?xml version="1.0" encoding="utf-8"?><ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Order><orderName>矿泉水</orderName><price>1.5</price><Now>2022/3/28 16:19:49</Now><orderDetail><customerName>asd</customerName><customerSex>男</customerSex><customerPhone>11111111111</customerPhone><customerRequest>asdasda</customerRequest><customerAddress>asdasdad</customerAddress></orderDetail></Order></ArrayOfOrder>
+2:	asdadsadada
+3:	asdasdad
+4:	asdasdasd
+5:	asd
+6:	asdasdasdas
+7:	asdasdasdasd
